@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'karmasuture';
-    src: url('karma_suture-webfont.woff2') format('woff2'),
-         url('karma_suture-webfont.woff') format('woff');
+    src: url('http://www.krinkle.ml/font/karma_suture-webfont.woff2') format('woff2'),
+         url('http://www.krinkle.ml/font/karma_suture-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
